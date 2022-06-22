@@ -1,1 +1,1 @@
-# landing-blogr
+# blogr-landing
